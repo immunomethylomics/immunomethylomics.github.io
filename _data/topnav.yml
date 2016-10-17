@@ -3,6 +3,11 @@
 topnav:
 - title: Topnav
   items:
+    - title: Home
+      url: /index.md
+
+- title: Topnav
+  items:
     - title: News
       url: /news
 
