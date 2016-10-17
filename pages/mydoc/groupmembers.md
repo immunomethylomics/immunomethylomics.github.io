@@ -3,11 +3,10 @@ title: Group Members
 sidebar: mydoc_sidebar
 permalink: groupmembers.html
 folder: mydoc
+summary: These are the group members of the Immunomethylomics Working Group.
 ---
 
-## Overview
-
-These are the group members of the Immunomethylomics Working Group
+## Group Members
 
 ### 1. Christensen Lab
 
