@@ -1,2 +1,3 @@
-# immunomethylomics.github.io
-Public facing website for the Immunomethylomics working group
+## Jekyll Documentation theme
+
+Build the site to see the instructions for using it. Or just go here: [http://idratherbewriting.com/documentation-theme-jekyll/](http://idratherbewriting.com/documentation-theme-jekyll/)
