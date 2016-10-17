@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: Home
-      url: /index.md
+      url: /index.html
 
 - title: Topnav
   items:
