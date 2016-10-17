@@ -9,7 +9,8 @@ summary: A brief introduction to the people and the research involved in the Imm
 
 ## Summary
 
-We are a group of researchers from around the country who are interested in Immunomethylomics.
+Epigenetic programming of the immune system is marked by specific DNA methylation events that can be used to identify and quantify immune cells in biological samples. The application of bioinformatic tools to accomplish cell profiling using DNA methylation is termed "immunomethylomics". Cancer development evolves through an interaction of the immune system with the transformed cell as it undergoes clonal selection. Systemic inflammation and associated immunosuppression are common in many types of malignancy including those of the central nervous system. Our research explores the role of immune cells in cancer risk and outcomes. A specific goal of the research is to improve brain tumor patient survival by applying immunomethylomic approaches within a well characterized epidemiological framework.
+[ResearchGate Description](https://www.researchgate.net/project/Immunomethylomics-in-human-cancer)
 
 ## Who we are
 
@@ -34,6 +35,14 @@ Kelsey Lab @ Brown University
 ### 3. Houseman Lab
 
 Houseman Lab @ Oregon State University
+
+### 4. Koestler Lab
+
+Koestler Lab @ University of Kansas Medical Center
+
+### 5. Wiencke Lab
+
+Wiencke Lab @ University of California, San Francisco
 
 ## Research
 
