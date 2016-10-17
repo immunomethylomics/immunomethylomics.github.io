@@ -16,17 +16,19 @@ Epigenetic programming of the immune system is marked by specific DNA methylatio
 
 We are a group of researchers from around the country who are interested in Immunomethylomics.
 
-### 1. Christensen Molecular Epidemiology Lab
+### 1. Christensen Lab
 
 Christensen Lab @ Dartmouth College
 
-* Brock Christensen, PhD
-* Lucas Salas, PhD
-* Owen Wilkins
-* Sara Lundgren
-* David Chen
-* Alexander Titus
-* Rachel Gallimore
+| Name | Role |
+|-------|--------|
+| Brock Christensen, PhD | PI |
+| Lucas Salas, PhD | Post-Doc|
+| Owen Wilkins | Grad Student |
+| Sara Lundgren | Grad Student | 
+| David Chen | Grad Student |
+| Alexander Titus | Grad Student |
+| Rachel Gallimore | Lab Manager |
 
 ### 2. Kelsey Lab
 
