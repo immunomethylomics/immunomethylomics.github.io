@@ -21,7 +21,7 @@ We are a group of researchers from around the country who are interested in Immu
 Christensen Lab @ Dartmouth College
 
 |        Name             |   Role        |
-|------------------------ | --------------|
+|----------------------------------------- | --------------|
 | Brock Christensen, PhD  | PI            |
 | Lucas Salas, PhD        | Post-Doc      |
 | Owen Wilkins            | Grad Student  |
