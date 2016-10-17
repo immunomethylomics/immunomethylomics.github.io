@@ -37,7 +37,7 @@ entries:
     folderitems:
 
     - title: Immunomethylomics
-      url: /mydoc_release_notes_60.html
+      url: /research.html
       output: web, pdf
 
   - title: Software
@@ -45,7 +45,7 @@ entries:
     folderitems:
 
     - title: methyLiftover
-      url: /mydoc_about_ruby_gems_etc.html
+      url: /methyliftover.html
       output: web, pdf
 
 #   - title: Authoring
