@@ -20,9 +20,8 @@ We are a group of researchers from around the country who are interested in Immu
 
 Christensen Lab @ Dartmouth College
 
-|----------------------------------------------------------|
 |        Name             |   Role        |
-|----------------------------------------- | --------------|
+| ----------------------- | --------------|
 | Brock Christensen, PhD  | PI            |
 | Lucas Salas, PhD        | Post-Doc      |
 | Owen Wilkins            | Grad Student  |
@@ -64,3 +63,5 @@ Reference free cell mixture deconvolution.
 Cross-platform DNA methylation data integration
 
 ## Contact
+
+Email the group at **immunomethylomics [*at*] gmail.com**
